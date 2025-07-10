@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @NanokaHiya
-- 👀 I’m interested in astrophysics, qqbot
-- 🌱 I’m currently learning physics, astronomy, computer science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning physics & computer science
 - 📫 How to reach me nanokahiya@gmail.com
 
 <!---
